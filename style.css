@@ -1,0 +1,18 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    background: rgb(30, 132, 228);
+}
+
+ .pokemon {
+    background: white;
+    min-width: 180px;
+    text-align: center;
+    padding: 25px;
+    border-radius: 6px;
+    border: 10px yellow solid;
+    box-shadow: 1px 2px 4px rgba(0,0,0,0.5);
+}
